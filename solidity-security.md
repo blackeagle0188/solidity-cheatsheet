@@ -1,4 +1,4 @@
-### WIP Version. Pending review. Use with caution
+### WIP Version. Pending review. Use with caution 
 
 # Solidity security guidelines & Best practices
 
